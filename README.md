@@ -1,0 +1,2 @@
+# studia
+Podstawy programowania
