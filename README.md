@@ -1,4 +1,3 @@
 # studia
 Podstawy programowania
-test
-a
+# Próba zmiany i zapisu poprzez Visual Studio Code
